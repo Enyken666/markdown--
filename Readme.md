@@ -79,7 +79,7 @@ public class HelloWorld : MonoBehaviour
 
 Узнал о существовании таких программ, как Anaconda Distribution и Unity Hub и немного как ими пользоваться
 
-[![alt text](https://github.com/Enyken666/formemes/blob/main/Оченьинтересно.png?raw=true)]
+![alt text](https://github.com/Enyken666/formemes/blob/main/Оченьинтересно.png?raw=true)
 
 ## Powered by
 
